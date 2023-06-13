@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2? family= Bruno+Ace+SC & display=swap');
+
+body {
+    font-family: 'Bruno Ace SC', cursive;
+    background: url(https://r4.wallpaperflare.com/wallpaper/114/760/992/abstract-hexagon-digital-art-pattern-wallpaper-62f172207d365eab4af832a560a859f2.jpg)no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    color: aqua;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid aquamarine;
+    border-radius: 40px;
+    padding: 60px 68px 40px;
+    min-height: 500px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+input {
+    color: aliceblue;
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+button {
+    background-color: aquamarine;
+    border-radius: 20px;
+    cursor: pointer;
+}

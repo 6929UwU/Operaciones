@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2? family= Langosta & display=swap');
+
+body {
+    font-family: 'Lobster', cursive;
+    background: url(https://r4.wallpaperflare.com/wallpaper/510/682/484/abstract-hexagon-wallpaper-38f67d08c0007c68604cf15ea8c2c44a.jpg)no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-decoration:underline goldenrod;
+}
+
+section {
+    color: aliceblue;
+    background-color: rgba(129, 129, 129, 0.526);
+    border: 2px solid yellow;
+    border-radius: 40px;
+    padding: 60px 68px 40px;
+    min-height: 500px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+input {
+    color: white;
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+button {
+    background-color: goldenrod;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+p{
+    color: aliceblue;
+}

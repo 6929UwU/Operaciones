@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    font-family: 'Pacifico', cursive;
+    background: url(https://r4.wallpaperflare.com/wallpaper/883/1014/427/hexagon-colorful-pattern-gradient-wallpaper-b866fcca1f4c47098eb0f9f272695b50.jpg)no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    color: crimson;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid darkcyan;
+    border-radius: 40px;
+    padding: 60px 68px 40px;
+    min-height: 500px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+input {
+    color: aquamarine;
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+button {
+    background-color: crimson;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+p{
+    color: aquamarine;
+}
